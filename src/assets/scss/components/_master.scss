@@ -5,7 +5,10 @@
   margin-right: 10px;
   display: flex;
   flex-direction: column;
-
+  &:hover {
+    cursor: pointer;
+    background-color: rgb(232, 241, 248);
+  }
   & .header {
     margin-bottom: 12px;
     display: flex;

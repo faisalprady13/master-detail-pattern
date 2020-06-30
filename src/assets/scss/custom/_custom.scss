@@ -21,7 +21,8 @@ button {
   color: white;
 
   &:hover {
-    opacity: 80%;
+    transform: scale(1.1);
+    cursor: pointer;
   }
   &.primary {
     background-color: thistle;
