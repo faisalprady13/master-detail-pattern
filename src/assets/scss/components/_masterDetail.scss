@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  width: 90%;
+
+  & .master-container {
+    width: 40%;
+    border-right: solid #aaa 1px;
+
+    & .button-container {
+      display: flex;
+      justify-content: space-evenly;
+    }
+  }
+
+  & .detail-container {
+    width: 60%;
+  }
+}

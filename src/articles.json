@@ -1,0 +1,314 @@
+[
+  {
+    "published_date": "1593421200",
+    "level": "1",
+    "title": "Gefälschte E-Mails an Unternehmen enthalten Schadsoftware",
+    "body": "Nach Erkenntnissen des Sicherheitsunternehmens Proofpoint verbreiten Cyberkriminelle zurzeit vermehrt gefälschte E-Mails an Firmen. In diesen behaupten sie, das Unternehmen erfülle die “Bedingungen aufgrund von Covid-19\" nicht. Betroffen ist vor allem die Lebensmittel- und Getränkeindustrie, deren Unsicherheit gezielt ausgenutzt wird. Durch ein Klicken auf den Link in der E-Mail installiert sich Schadsoftware, die Dateien verschlüsselt und dann Lösegeld fordert.\r\n\r\nAußerdem werden angebliche Rechnungen des Providers 1&1 per E-Mail verbreitet. Auch diese enthalten Excel-Dateien, die mit Ransomware infiziert sind.\r\n\r\nSiBa rät zu Vorsicht. Klicken Sie auch nicht auf Links oder auf Dateianhänge in E-Mails, die Ihnen suspekt vorkommen. Antworten Sie nicht auf E-Mails. Gehen Sie auf keinen Fall auf Lösegeldforderungen ein, eine Entschlüsselung erfolgt laut Angaben der Polizei auch nach Zahlungen nicht. Nutzen Sie Virenschutzprogramme, die einen Schutz vor Phishing, Spam und Ransomware bietet. Erstellen Sie regelmäßig Backups Ihrer Dateien oder Ihres Systems und sichern sie diese auf externe Speichermedien. So verhindern Sie Datenverlust.",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.zdnet.de/88381006/angebliche-e-mail-der-bundesregierung-enthaelt-ransomware/",
+        "title": "Informieren Sie sich über die neue Ransomware-Kampagne, z.B. bei ZDnet"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Empfehlungen/Ransomware/Ransomware_node.html",
+        "title": "BSI: Ransomware: Bedrohungslage, Prävention & Reaktion"
+      }
+    ],
+    "id": "3858"
+  },
+  {
+    "published_date": "1593073800",
+    "level": "0",
+    "title": "Verstärkt gefälschte E-Mails von PayPal, Amazon und Banken im Umlauf",
+    "body": "Die Verbraucherzentrale warnt zurzeit vor E-Mails, die vorgeben, vom Bezahldienst PayPal, vom Online-Shop Amazon, von der Volks- und Raiffeisenbank oder von der Sparkasse zu stammen. In diesen werden Kundinnen und Kunden aufgefordert, über einen Link ihre Konten- oder Accountprobleme zu beheben, ihre persönlichen Daten zu aktualisieren oder einen neuen Dienst zu aktivieren. Häufig wird behauptet, die Angelegenheit sei dringlich, ein Ignorieren der Aufforderung würde zu einer Löschung des Kontos oder des Accounts führen.\r\n\r\nIm Umlauf sind außerdem E-Mails im Namen von Amazon mit vermeintlichen Bestellbestätigungen oder Hinweisen auf angebliche Account-Sperrungen.\r\n\r\nDiese E-Mails sehen täuschend echt aus, sind aber gefälscht. Klickt man auf die Links gelangt man auf Webseiten von Kriminellen. Gibt man dort seine persönlichen Daten an, werden diese unverschlüsselt übertragen.\r\n\r\nSiBa rät bei solchen und ähnlichen Phishing-Versuchen grundsätzlich zu Vorsicht. Prüfen Sie sorgfältig die E-Mail-Adresse des Absenders. Klicken Sie nicht auf Links. Greifen Sie im Zweifel zum Telefon, um den angeblichen Absender zu fragen, ob die E-Mail tatsächlich von ihm stammt.  Darüber hinaus empfehlen wir Ihnen, einen Virenscanner zu nutzen oder den Spam-Filter Ihres E-Mail-Anbieters zu aktivieren.",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/phishingradar/phishingradar-aktuelle-warnungen-6059",
+        "title": "Aktuelle Warnungen der Verbraucherzentrale"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/e-mail-und-messenger-sicher-nutzen",
+        "title": "E-Mail und Messenger sicher nutzen – Tipps von DsiN"
+      }
+    ],
+    "id": "3853"
+  },
+  {
+    "published_date": "1592484300",
+    "level": "1",
+    "title": "Sicherheitsupdates für Adobe-Produkte schließen kritische Lücken",
+    "body": "Adobe gab diese Woche bekannt, dass die Produkte After Effects, Audition, Illustrator, Premiere Pro und Premiere Rush von Angreifern attackiert werden könnten. Die Lücken stuft Adobe als kritisch ein. Betroffen sollen Windows-Nutzer sein.\r\n\r\nLaut Adobe könnten Angreifer bei einer erfolgreichen Attacke Schadcodes auf fremden Rechnern ausführen. Damit könnten sie an private Dateien oder Passwörter gelangen. Weitere Details nannte das Unternehmen nicht.\r\n\r\nAdobe hat darauf reagiert und stellt außerplanmäßig Sicherheitsupdates zur Verfügung. Administratoren und Anwender sollen diese nach eigenem Ermessen ausführen.\r\n\r\nSiBa rät, die Updates zu installieren. Generell sollten Sie ihre Apps und Programme stets aktuell halten und regelmäßig Sicherheitsupdates vornehmen.",
+    "categories": ["37", "41"],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/security/meldung/Angreifer-koennten-Adobe-Illustrator-Co-mit-Schadcode-beschiessen-4786372.html",
+        "title": "Informieren Sie sich in der Presse, z.B. bei heise.de"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/viren-w%C3%BCrmer-co-vor-schadprogrammen-richtig-sch%C3%BCtzen",
+        "title": "Viren, Würmer & Co: Vor Schadprogrammen richtig schützen – Tipps von DsiN"
+      }
+    ],
+    "id": "3849"
+  },
+  {
+    "published_date": "1591968600",
+    "level": "1",
+    "title": "Fake-Entschlüsselungsprogramm Decrypter Djviu im Umlauf",
+    "body": "Wie berichtet, verbreiten Angreifer zurzeit vermehrt Ransomware. Das sind Schadprogramme, die Dateien auf dem Rechner verschlüsseln und so den Zugang zu ihnen sperren. Die Installation erfolgt meist durch das Anklicken von Dateianhängen oder Links in E-Mails. Nach der Sperrung folgen in der Regel Hinweise mit Erpressungsversuchen: Nach einer Lösegeldzahlung würde man die Dateien wieder entschlüsseln.\r\n\r\nIn dieser Woche wurde durch das Portal Heise online ein neuer Trick bekannt: Das auf unseriösen Webseiten veröffentlichte Programm „Decrypter Djvu“ verspricht, die Ransomware „Stop Djvu“  zu erkennen, zu entfernen und verschlüsselte Dateien wieder zu entsperren. Tatsächlich steckt hinter „Decrypter Djvu“ die Schadsoftware „Zorab“. Dabei handelt es sich um einen Trojaner, wieder um eine Schadsoftware, die weiteren Dateien verschlüsselt und erneut Lösegeld einfordert.\r\n\r\nSiBa rät, Programme, die Schadsoftware erkennen und entfernen, nur bei seriösen Herstellern oder bei verifizierten Online-Shops herunterzuladen. Achten Sie vor dem Download, ob das Programm getestet und geprüft wurde. Generell sollten Sie keine Angebote annehmen, die Ihnen von dubiosen Quellen angeboten werden.\r\n\r\nSiBa rät Ihnen außerdem, regelmäßig Backups Ihrer Dateien oder Ihres Systems zu erstellen und extern, z.B. auf einem USB-Stick zu speichern. So verhindern Sie einen Datenverlust.",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/Fieser-Fake-Ransomware-Entschluesselungstool-verschluesselt-Daten-nochmal-4776899.html",
+        "title": "Informieren Sie sich in der Presse, z.B. bei heise.de"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/apps-und-programme-ausw%C3%A4hlen-und-nutzen",
+        "title": "Apps und Programme auswählen und nutzen – Tipps von DsiN"
+      }
+    ],
+    "id": "3842"
+  },
+  {
+    "published_date": "1591090200",
+    "level": "0",
+    "title": "Schnittstelle für Corona-App erhebt keine Daten",
+    "body": "Um die Ausbreitung von COVID-19 einzudämmen wird seit einigen Wochen die freiwillige Einführung der sogenannten Corona-Tracing-App diskutiert. Diese Anwendung soll auf mobilen Geräten installiert werden und schlägt automatisch Alarm, wenn man einer als infiziert gemeldeten Person über einen längeren Zeitraum nahe war.\r\n\r\nGoogle und Apple haben in der vergangenen Woche in Vorbereitung auf eine solche Tracing-App in Deutschland und anderen Ländern für die Betriebssysteme Android und iOS eine entsprechende Schnittstelle bereitgestellt und über Updates verteilt.\r\n\r\nBei dieser Schnittstelle handelt es sich jedoch nicht um die Tracing-App selbst, sondern um eine technische Voraussetzung für die Nutzung einer solchen App. Die Schnittstelle erhebt und wertet keine Daten aus, sie bleibt automatisch deaktiviert, bis vom Nutzer manuell eine entsprechende Tracing-App installiert wird.\r\n\r\nDie für Deutschland entwickelte Corona-Warn-App wird voraussichtlich im Juni in den offiziellen App-Stores veröffentlicht und kann dann freiwillig installiert werden.\r\n",
+    "categories": ["42"],
+    "url_action": [
+      {
+        "url": "https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-warn-app-1747738",
+        "title": "Seite zur Corona-Warn-App bei der Bundesregierung"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.br.de/nachrichten/netzwelt/geruechte-um-corona-warn-app-das-steckt-dahinter,S05te6p",
+        "title": "Artikel „Gerüchte um Corona-Warn-App: Das steckt dahinter“ von BR24:"
+      }
+    ],
+    "id": "3814"
+  },
+  {
+    "published_date": "1590570900",
+    "level": "0",
+    "title": "Apple Mail: Schwachstelle mit Sicherheitsupdate geschlossen",
+    "body": "Vor einem Monat berichteten wir, dass das IT-Sicherheitsunternehmen ZecOps Schwachstellen in den Betriebssystemen iOS 6 bis 13.4.1 entdeckt hatte, die in Apple iPhones zum Einsatz kommen. Die Sicherheitslücken ermöglichen es Kriminellen, über die vorinstallierte Mail-App Schadsoftware auf den Geräten der Nutzer zu installieren.\r\n\r\nDas Bundesamt für Sicherheit in der Informationstechnik (BSI) stufte diese Schwachstelle als sehr kritisch ein, weil die Schadsoftware sich ohne jedes Zutun der Nutzer installiert.\r\n\r\nApple hat nun reagiert und mit dem Betriebssystemen iOS 13.5., bzw. 12.4.7. für ältere Geräte, das Problem behoben.\r\n\r\nSiBa rät, iOS-Geräte zu aktualisieren.",
+    "categories": ["37", "42"],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/mac-and-i/meldung/Apple-Mail-iOS-Updates-beseitigen-offenbar-schwere-Luecke-4764378.html",
+        "title": "Informieren Sie sich, z.B. bei heise.de"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://support.apple.com/de-de/ios/update",
+        "title": "Hilfe finden Sie beim Support von Apple"
+      }
+    ],
+    "id": "3808"
+  },
+  {
+    "published_date": "1590161400",
+    "level": "0",
+    "title": "Datenschutzlücke in Schul-Cloud nach Hackerangriff geschlossen",
+    "body": "Die von der Bundesregierung geförderte und vom Hasso-Plattner-Institut (HPI) entwickelte Lernplattform “Schul-Cloud” wurde nach Angaben des ARD-Magazins Kontraste von Hackern angegriffen. Unbefugte konnten sich über einen einmaligen Einladungslink als vermeintliche Angehörige einer Schule anmelden und so persönliche Daten, insbesondere Vor- und Nachnamen einsehen.\r\n\r\nBundesweit sollen 13 Schulen betroffen sein, davon 6 aus Brandenburg. Es wurden offenbar insgesamt 103 Vor- und Nachnamen im Saarland abgegriffen. Die Angreifer haben vermeintlich Vor- und Nachnamen genutzt, um sie innerhalb des des Systems in verschiedene Teams einzuladen. Eine weitere missbräuchliche Nutzung der Namen ist bisher nicht bekannt.\r\n\r\nDie Schwachstelle wurde bereits am 20. Mai laut den Angaben des HPI geschlossen. \"Die HPI Schul-Cloud ist weiter sicher nutzbar und ihre Funktionalität und Sicherheit wird weiter ausgebaut.\" teilte Instituts-Direktor Prof. Christoph Meinel der Presse mit.\r\n\r\nDie Thüringer Schul-Cloud ist nicht betroffen. Die Registrierungen erfolgen dort zentral über das Schulportal des Landes. In Niedersachsen wurde, aufgrund des Vorfalls, die für Anfang Mai geplante Einführung der Schul-Cloud ausgesetzt.\r\n\r\nSiBa rät generell zu Datensparsamkeit. Sofern möglich, sollten Nutzer keine vollständigen Vor- und Nachnamen auf Web-Plattformen angeben, sondern, wenn möglich, ein Pseudonym bzw. eine Abkürzung nutzen.",
+    "categories": ["36", "37"],
+    "url_action": [
+      {
+        "url": "https://www.rtl.de/cms/hacker-stehlen-aus-hpi-schul-cloud-ueber-100-namen-von-schuelern-und-lehrern-4545659.html",
+        "title": "Informieren Sie sich in der Presse, z.B. bei rtl.de ..."
+      },
+      {
+        "url": "https://www.rbb24.de/panorama/beitrag/2020/05/hasso-plattner-institut-potsdam-schulcloud-schule.html",
+        "title": ".. oder für Brandenburg bei rbb24.de"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://blog.schul-cloud.org/informationen-zum-datenschutzvorfall/",
+        "title": "Lesen Sie den Live-Ticker des HPI"
+      }
+    ],
+    "id": "3801"
+  },
+  {
+    "published_date": "1590137100",
+    "level": "0",
+    "title": "Google Chrome: Neue Sicherheits- und Datenschutzeinstellungen",
+    "body": "Googles Browser Chrome soll in den kommenden Wochen ein Update erhalten. Das gab das Unternehmen in seinem Blog bekannt.\r\n\r\nMit einem neuen “Sicherheitscheck” soll zukünftig der Datenschutz und die Privatsphäre erhöht werden. Demnach sollen Nutzer bald prüfen können, ob Kriminelle die in Google Chrome gespeicherten Passwörter gehackt und veröffentlicht haben. Dies geschehe über einen Abgleich mit einer Datenbank, so Google.\r\n\r\nAußerdem will Chrome zukünftig automatisch Nutzer warnen, wenn “Safe Browsing” nicht aktiviert wurde. Diese Funktion soll einen Schutz vor dem Herunterladen von Schadsoftware bieten.\r\n\r\nDie weiteren Datenschutz- und Sicherheitseinstellungen, wie z.B. das Verwalten von Cookies oder das Löschen des Browserverlaufs, sollen zukünftig leichter zu finden und dank vereinfachter Sprache intuitiver nutzbar sein, so Google.\r\n\r\nSiBa rät Chrome-Nutzern, das Update nach dem Erscheinen zu installieren und die neuen Sicherheitsfunktionen zu nutzen. Wann das Update erscheint, gab Google allerdings nicht bekannt.",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.spiegel.de/netzwelt/apps/google-chrome-browser-bekommt-neuen-sicherheitscheck-a-a5c816b7-f84e-4ced-98ba-8ef39dd3aca7",
+        "title": "Informieren Sie sich in der Presse, z.B. bei spiegel.de"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://germany.googleblog.com/2020/05/datenschutz-und-sicherheitseinstellunge.html",
+        "title": "Pressemitteilung von Google"
+      }
+    ],
+    "id": "3798"
+  },
+  {
+    "published_date": "1589967900",
+    "level": "1",
+    "title": "Hackerangriff bei easyJet: Millionen Kundendaten erbeutet",
+    "body": "Die britische Fluggesellschaft easyJet ist Opfer von Cyberkriminalität geworden. Bisher noch unbekannte Angreifer hätten sich Zugang zu sensiblen Kundendaten verschafft. 9 Millionen E-Mail-Adressen und 2200 Kreditkartendaten sollen erbeutet worden sein. Das teilt easyJet in einer Pressemitteilung mit. Wie genau der Angriff erfolgte, ist bisher unklar.\r\n\r\nEasyJet will bis zum 26. Mai alle Betroffenen persönlich kontaktieren und sie über Schutzmaßnahmen informieren. Wer keine Nachricht erhält, soll auch nicht von dem Vorfall betroffen sein, so die Fluggesellschaft. Bisher ist dem Unternehmen nicht bekannt, dass die E-Mail-Adressen oder die Kreditkartendaten missbräuchlich verwendet worden sind. EasyJet warnt aber vor Spam und möglichen Phishing-Versuchen, mit denen Kriminelle versuchen, per E-Mail an persönliche Daten heranzukommen.\r\n\r\nSiBa rät, betroffenen easyJet-Kunden in Zukunft eigehende E-Mails genauer zu prüfen. Generell gilt: Klicken Sie nicht auf Dateianhänge oder Links von Unbekannten, geben Sie auf dubiosen Webseiten nicht ihre persönlichen Daten preis. Nutzen Sie einen Virenscanner, der einen Schutz vor Phishing oder Spam anbietet.",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.spiegel.de/netzwelt/web/easyjet-raeumt-datenleck-ein-neun-millionen-kunden-betroffen-a-cd0b8847-8a44-46c9-b138-064572555d9e",
+        "title": "Informieren Sie sich in der Presse, z.B. bei spiegel.de"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.bsi-fuer-buerger.de/BSIFB/DE/Risiken/SpamPhishingCo/Phishing/Schutzmassnamen/schutzmassnamen_node.html",
+        "title": "Wie schützt man sich gegen Phishing? Das BSI klärt auf."
+      }
+    ],
+    "id": "3796"
+  },
+  {
+    "published_date": "1589544000",
+    "level": "1",
+    "title": "Schadsoftware WannaCry: Millionen Geräte weiterhin anfällig",
+    "body": "Vor genau drei Jahren, im Mai 2017 haben Kriminelle zahlreiche Rechner in 150 Ländern mit der Schadsoftware Wana Decrypt0r 2.0, besser bekannt als WannaCry, infiziert. Experten des IT-Sicherheitsunternehmens ESET weisen nun darauf hin, dass WannaCry weiterhin im Umlauf ist. Mehr als eine Millionen Windows-Systeme sollen weiterhin anfällig sein und zahlreiche Schäden verursachen.\r\n\r\nBei WannaCry handelt es sich um Ransomware. Nach einem Befall werden Dateien oder Rechner verschlüsselt. Eine Entschlüsselung ist erst nach einer Zahlung eines Lösegelds in der Kryptowährung Bitcoin möglich. WannaCry verbreitet sich nicht über E-Mails, sondern über Netzwerke und Schwachstellen im Windows-Betriebssystem.\r\n\r\nMicrosoft hat zwar bereits 2017 mit einem Patch auf WannaCry reagiert und damit die Verbreitung von WannaCry eingedämmt. Inzwischen gehen die Kriminellen aber gezielter vor: Kriminelle suchen sich gezielt mittelständische Unternehmen aus, die versuchen, durch Zahlungen an die Kriminellen schnellstmöglich Produktionsausfälle zu verhindern.\r\n\r\nSiBa rät betroffenen Unternehmen, sich an die Cybercrime-Stellen der Landeskriminalämter zu wenden, beraten und unterstützen können.Darüber hinaus rät SiBa zu Vorsicht. Antworten Sie nicht auf Erpressungsversuche, gehen Sie auf keinen Fall auf Geldforderungen ein. Eine Entschlüsselung erfolgt laut Angaben der Polizei auch nach Zahlungen nicht. Nutzen Sie Sicherheitslösungen, die einen Schutz vor Phishing, Spam und Ransomware bietet. Erstellen Sie regelmäßig Backups Ihrer Dateien oder Ihres Systems und sichern sie diese auf externe Speichermedien. So verhindern Sie einen Datenverlust. Installieren Sie auch regelmäßig Windows-Sicherheitsupdates.",
+    "categories": ["37", "45"],
+    "url_action": [
+      {
+        "url": "https://www.eset.com/de/about/presse/pressemitteilungen/pressemitteilungen/wannacry-ueber-eine-millionen-geraete-weiterhin-anfaellig/",
+        "title": "Sicherheits-Tipps von ESET"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.zdnet.de/88379645/ueber-eine-million-geraete-weiterhin-anfaellig-fuer-wannacry/",
+        "title": "Informieren Sie sich in der Presse, z.B. bei zdnet.de"
+      }
+    ],
+    "id": "3794"
+  },
+  {
+    "published_date": "1588587300",
+    "level": "1",
+    "title": "Schwachstelle im Samsung Galaxy S8 ermöglicht Überwachung",
+    "body": "Die Sicherheitsforscherin Jiska Classen (TU Darmstadt) hat eine Sicherheitslücke in den beliebten Smartphones Samsung Galaxy S8, S8+ und Note8 entdeckt, das seit drei Jahren auf dem Markt ist. Laut ihren Angeben fehlt in diesen Handys ein Mechanismus, der die Datenübertragung über Bluetooth verschlüsselt.\r\n\r\nSo können Unbefugte Daten (wie z.B. Fotos oder Passwörter) abfangen, die über die Schnittstelle gesendet werden. Denkbar wäre auch ein Abhören von Gesprächen, bei denen ein Bluetooth-Headset genutzt wird. Dazu müsste sich der Angreifer allerdings im näheren Umkreis des Smartphones befinden.\r\n\r\nSamsung hat die Schwachstelle bestätigt und arbeitet zurzeit an einer Lösung. Das Unternehmen will die Sicherheitslücke mit einem Softwareupdate zukünftig beheben.\r\n\r\nGleichzeitig gab Samsung bekannt, dass Updates für die Smartphones Galaxy S8, S8+ und S8 Lite seit Ende April nur noch vierteljährlich erscheinen sollen. Wann das Update, das die SIcherheitslücke schließt, nun also tatsächlich erscheint, bleibt ungewiss.\r\n\r\nSiBa rät, generell immer die neusten Updates für Smartphones zu installieren, sobald sie verfügbar sind.",
+    "categories": ["42"],
+    "url_action": [
+      {
+        "url": "https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-s8-sicherheitsluecke-ermoeglicht-gezielte-ueberwachung-a-69408790-fd1e-4e6e-8f37-db6e3b339a9a",
+        "title": "Informieren Sie sich in der Presse über die Schwachstelle, z.B. bei spiegel.de"
+      },
+      {
+        "url": "https://www.chip.de/news/Samsung-schraenkt-Support-ein-Beliebte-Galaxy-Reihe-bekommt-weniger-Updates_182662123.html",
+        "title": "Informieren Sie sich auch über Meldungen zu Sicherheitsupdates, z.B. bei chip.de"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.samsung.com/de/support/software-updates/",
+        "title": "Allgemeine Informationen über Updates finden Sie beim Samsung Support"
+      }
+    ],
+    "id": "3775"
+  },
+  {
+    "published_date": "1588263300",
+    "level": "1",
+    "title": "Save.tv und UseNext nach Hackerangriff offline",
+    "body": "Die IT-Systeme des Online-Videorecorders save.tv und des Usenet-Dienstes UseNeXT sind nach eigenen Angaben von bislang unbekannten Dritten angegriffen worden. Die Kriminellen sollen in beiden Fällen eine Sicherheitslücke eines gemeinsamen Partners ausgenutzt haben, um personenbezogene Kundendaten zu stehlen. Dazu gehören z.B. Vor- und Nachnamen, Login-Daten, Rechnungsanschriften und Zahlungsdaten wie IBAN und Kontonummer. Diese können für einen Identitätsdiebstahl missbraucht werden.\r\n\r\nNach Recherchen von heise.de steckt hinter beiden Vorfällen ein Hackerangriff auf die IT-Infrastruktur des Unternehmens Omiga.\r\n\r\nBeide Unternehmen haben darauf reagiert und ihre Systeme deaktiviert. Save.tv Und UseNeXT weisen auf Ihren Webseiten darauf hin, dass im Zuge der Abschaltung ein Kundenservice per E-Mail nicht mehr angeboten wird. Sollten Kunden zurzeit E-Mails von save.tv oder UseNeXT erhalten, handelt es um Fälschungen.\r\n\r\nSiBa rät Kunden von save.tv oder UseNeXT auf vermeintliche E-Mails des Unternehmens nicht zu reagieren, insbesondere nicht auf Links oder Anhänge zu klicken. Achten Sie auch auf unbekannte Abbuchungen von Ihrem Bankkonto. Ändern Sie Ihre Passwörter bei anderen Internetdiensten, wenn sie bei diesen das gleiche Passwort wie bei UseNeXT oder save.tv hinterlegt haben. Schützen Sie Ihre Accounts, wenn möglich, grundsätzlich mithilfe der Zwei-Faktor-Authentifizierung.",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/security/meldung/Datenlecks-bei-UseNeXt-und-Save-TV-Moeglicherweise-sensible-Kundendaten-kopiert-4711113.html",
+        "title": "Informieren Sie sich in der Presse, z.B. bei heise.de"
+      },
+      {
+        "url": "https://www.bsi-fuer-buerger.de/BSIFB/DE/Risiken/ID-Diebstahl/Schutzmassnahmen/id-dieb_schutz_node.html",
+        "title": "Tipps des BSI für den Schutz Ihrer digitalen Identität"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "http://save.tv/faq.php",
+        "title": "Informieren Sie sich auf den Webseiten, z.B. bei der FAQ von save.tv"
+      }
+    ],
+    "id": "3773"
+  },
+  {
+    "published_date": "1587718800",
+    "level": "2",
+    "title": "Schwerwiegende Sicherheitslücken in Apple Mail",
+    "body": "Experten des IT-Sicherheitsunternehmens ZecOps haben zwei gravierende Sicherheitslücken im Betriebssystem iOS entdeckt, das in Apple iPhones und iPads zum Einsatz kommt. Die Schwachstelle ermöglicht es Kriminellen, im Hintergrund Schadsoftware auf den Geräten der Nutzer zu installieren und so auf private Daten zuzugreifen.\r\n\r\nDas Bundesamt für Sicherheit in der Informationstechnik (BSI) stuft diese Schwachstelle als sehr kritisch ein.\r\n\r\nDie Angreifer nutzen die vorinstallierte Mail-App aus. Nach dem Empfang einer von ihnen versandten E-Mail installiert sich die Schadsoftware ohne jedes Zutun. Es ist dafür nicht nötig, die E-Mail zu öffnen. Nach der Installation wird die E-Mail per Fernsteuerung gelöscht. Betroffen sind alle iPhones und iPads, mit den iOS-Versionen 6 bis 13.4.1.\r\n\r\nApple hat diesbezüglich ein Update angekündigt, das die Sicherheitslücken schließen soll. Bisher wurde aber nur eine Beta-Version veröffentlicht.\r\n\r\nSiBa rät, die Mail-App auf iPhones und iPads nicht mehr zu nutzen. Löschen Sie die Mail-App oder schalten Sie die Synchronisation ab. Rufen Sie alternativ Ihre E-Mails in einem Browser ab. Installieren Sie das Update, sobald es offiziell zur Verfügung steht. Von einer Installation des Beta-Updates raten wir ab, da dieses noch fehleranfällig sein kann.",
+    "categories": ["37", "42"],
+    "url_action": [
+      {
+        "url": "https://www.spiegel.de/netzwelt/gadgets/neue-sicherheitsluecken-gefaehrden-iphone-und-ipad-nutzer-a-39ba89a3-563e-415b-8ce7-12e0c60ca18c",
+        "title": "Informieren Sie sich in der Presse, z.B. bei spiegel.de"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2020/Warnung_iOS-Mail_230420.html",
+        "title": "BSI warnt vor Einsatz von iOS-App Mail"
+      }
+    ],
+    "id": "3754"
+  },
+  {
+    "published_date": "1587634200",
+    "level": "0",
+    "title": "Sicherheitslücken in Smart-Home-Geräten entdeckt",
+    "body": "In Smart-Home-Kontrollzentralen und -Geräten haben Forscher des IT-Sicherheitsherstellers ESET Sicherheitslücken entdeckt. Betroffen sind die Geräte HomeMatic Central Control Unit (CCU2), Fibaro Home Center Lite und eLAN-RF-003, die zahlreich an Privatnutzern und Unternehmen verkauft wurden.\r\n\r\nÜber die Schwachstellen können sich Unbefugte Zugang zu den Geräten und zu Daten (z.B. zu Passwörtern) verschaffen. Somit wäre eine Kontrolle von Haushaltsgeräten möglich.\r\n\r\nESET hat die betroffenen Hersteller informiert, die umgehend Updates zur Verfügung gestellt haben, die die Sicherheitslücken schließen. Diese werden aber nicht automatisch installiert.\r\n\r\nSiBa rät Smart-Home-Nutzern zu prüfen, ob sie betroffen sind und wenn ja, die Updates manuell zu installieren.",
+    "categories": ["41"],
+    "url_action": [
+      {
+        "url": "https://www.welivesecurity.com/deutsch/2020/04/22/kritische-sicherheitsluecken-in-3-smart-home-hubs/",
+        "title": "Eine ausführliche Analyse der Sicherheitslücken bei ESET"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.telekom.com/de/verantwortung/datenschutz-und-datensicherheit/sicher-digital/details/sicheres-smart-home-536176",
+        "title": "Smart Home? Sicher! - Tipps der Telekom"
+      }
+    ],
+    "id": "3751"
+  },
+  {
+    "published_date": "1587555900",
+    "level": "2",
+    "title": "Erpresser-E-Mails im Umlauf",
+    "body": "Experten des IT-Sicherheitsunternehmens ESET und die Polizei waren zurzeit vor Erpressern, die die Angst vor einer Ansteckung mit dem Corona-Virus ausnutzen. In E-Mails drohen sie damit, den Empfänger und dessen Familie im wahren Leben zu infizieren, wenn nicht innerhalb von 24 Stunden ein Lösegeld gezahlt wird. Außerdem sind E-Mails im Umlauf, die vorgeben, vom Bundesministerium für Gesundheit zu stammen. Diese enthalten Anhänge, wie z.B. vermeintlich neue Formulare für Arbeitnehmer (z.B. Krankschreibung.doc). Mit dem Anblicken dieser werden Dateien oder Rechner verschlüsselt. Eine Entschlüsselung sei erst nach einer Zahlung eines Lösegelds möglich.\r\n\r\nDie Installation der schadhaften Verschlüsselungssoftware erfolgt über Makros von Microsoft Office. Betroffen sind somit vor allem Windows-PCs.\r\n\r\nSiBa rät zu Vorsicht. Öffnen Sie generell keine E-Mails und vor allem keine Dateianhänge von Unbekannten. Klicken Sie auch nicht auf Links. Sollten Sie den Absender kennen, fragen Sie ihn per Telefon, ob es sich um eine echte Nachricht handelt. Antworten Sie nicht, sondern melden Sie Erpressungsversuche der Polizei. Gehen Sie auf keinen Fall auf Lösegeldforderungen ein, eine Entschlüsselung erfolgt laut Angaben der Polizei auch nach Zahlungen nicht. Nutzen Sie Virenschutzprogramme, die einen Schutz vor Phishing, Spam und Ransomware bietet. Erstellen Sie regelmäßig Backups Ihrer Dateien oder Ihres Systems und sichern sie diese auf externe Speichermedien. So verhindern Sie einen Datenverlust. ",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.eset.com/at/about/presse/pressemitteilungen/pressemitteilungen/covid-19-online-betrueger-drohen-mit-infektion-in-der-realitaet/",
+        "title": "Sicherheits-Tipps von ESET"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Warnhinweise/200403_CoronaInternet.html",
+        "title": "Warnung und weitere Informationen des Bundeskriminalamts"
+      }
+    ],
+    "id": "3741"
+  }
+]

@@ -1,0 +1,28 @@
+.detail {
+  color: #333;
+  padding: 36px;
+  & .header {
+    display: flex;
+    & .title {
+      font-size: 24px;
+    }
+  }
+  & .body {
+    margin-top: 4vh;
+    text-align: left;
+    line-height: 26px;
+    display: flex;
+    flex-direction: column;
+    & .link-container {
+      margin-top: 30px;
+      display: flex;
+      flex-direction: column;
+      & .title {
+        font-size: 16px;
+      }
+      & .link {
+        text-decoration: none;
+      }
+    }
+  }
+}
