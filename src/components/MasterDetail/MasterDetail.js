@@ -43,6 +43,7 @@ const MasterDetail = ({ articles }) => {
 
   const getArticlesByLevel = (level) => {
     let newArray = articles.filter((article) => {
+      //eslint-disable-next-line
       return article["level"] == level;
     });
     return newArray;
